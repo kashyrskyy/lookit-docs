@@ -197,13 +197,14 @@ List of tutorial participants
 - Dimitri Prica (University of Barcelona)
 - Victor Manea (University of California, San Diego)
 - Candice Rubie (University of Waterloo)
-- Abbey Ward (University of Oregon)
+- Abbey Ward (University of Oregon)x
 - Connor Cook (Wingate University)
 - Erica Verde (University of California, Davis)
 - Joseph Lang (Wingate University)
 - Heather Morse (Wingate University)
 - Carrie Watson (University of Southern California)
 - Yiran Chen (University of Pennsylvania)
+- Andriy Kashyrskyy (Minerva Schools at Keck Graduate Institute)
 
 .. _Github issues overview:
 
